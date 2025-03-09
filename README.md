@@ -6,3 +6,4 @@ A list of bot commands with their parameters:
 4. coinflip(times)
 5. end(delay)
 6. errormsg(msg)
+7. lock(password)
