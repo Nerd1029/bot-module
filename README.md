@@ -1,9 +1,11 @@
 A list of bot commands with their parameters:
 
-1. choice(ChoiceA, ChoiceB, ChoiceC, ChoiceD)
-2. inch(mm) NOTE: this converts milimeters to inches
-3. mm(inch) NOTE: this converts inches to milimeters
-4. coinflip(times)
-5. end(delay)
-6. errormsg(msg)
-7. lock(p1, p2="", p3="", p4="", p5="", p6="", p7="", p8="", p9="", p10="")
+choice(ChoiceA, ChoiceB, ChoiceC, ChoiceD)
+inch(mm) NOTE: this converts milimeters to inches
+mm(inch) NOTE: this converts inches to milimeters
+coinflip(times)
+end(delay)
+errormsg(msg)
+lock(p1, p2="", p3="", p4="", p5="", p6="", p7="", p8="", p9="", p10="")
+
+THIS README IS OUTDATED IT WILL SOON BE UPDTATED
