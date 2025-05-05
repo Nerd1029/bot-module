@@ -2,7 +2,7 @@ import time; import sys; import random; import colorama; from colorama import Fo
 
 #VARIABLE BANK START
 choices = ["Heads", "Tails"]
-ChoicesG = ["", "", "", ""]
+ChoicesG = ["x", "x", "x", "x"]
 e403 = "ERROR 403 FORBIDDEN"
 e404 = "ERROR 404 REQUESTED ITEM NOT FOUND"
 #VARIABLE BANK END
